@@ -3,23 +3,23 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Research"
+    url: /publications/
+
+  - title: "Project"
+    url: /publications/
+
   - title: "News"
-    url: /news/    
+    url: /news/
 
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Researcdh"
-    url: /publications/
+  - title: "Team"
+    url: /publications/  
 
-#  - title: "Project"
-#    url: /publications/
-
-#  -  title: "Team"
-#    url: /publications/  
-
-#  - title: "Vacancy"
-#    url: /publications/  
+  - title: "Vacancy"
+    url: /publications/  
 
 #  - title: "Portfolio"
 #    url: /portfolio/
