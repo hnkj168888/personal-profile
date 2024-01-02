@@ -3,8 +3,6 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-redirect_from:
-  - /wordpress/blog-posts/
 ---
 
 {% if author.googlescholar %}
@@ -12,7 +10,7 @@ redirect_from:
 {% endif %}
 
 {% include base_path %}
-
+{% capture written_year %}'None'{% endcapture %}
 {% for post in site.publications reversed %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
