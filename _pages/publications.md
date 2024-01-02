@@ -1,8 +1,9 @@
 ---
-layout: archive
+layout: posts
 title: "Publications"
 permalink: /publications/
 author_profile: true
+
 ---
 
 {% if author.googlescholar %}
