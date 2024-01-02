@@ -1,9 +1,10 @@
 ---
-layout: posts
+layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-
+redirect_from:
+  - /wordpress/blog-posts/
 ---
 
 {% if author.googlescholar %}
