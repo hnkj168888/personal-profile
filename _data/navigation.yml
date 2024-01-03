@@ -4,12 +4,12 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /publications/
+    url: /research/
 
   - title: "Project"
     url: /publications/
 
-  - title: "News"
+  - title: "Activities"
     url: /news/
 
   - title: "Teaching"
