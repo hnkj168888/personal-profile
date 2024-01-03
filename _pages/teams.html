@@ -1,0 +1,94 @@
+---
+excerpt: "This is my team members."
+layout: archive
+title: "Teams"
+permalink: /teams/
+author_profile: true
+header:
+  overlay_image: ../images/teaching_header.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+---
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Section</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        #team {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin: 2em;
+        }
+
+        .team-member {
+            display: flex;
+            align-items: center;
+            margin: 1em;
+            max-width: 90%; /* Adjust the maximum width for larger screens */
+        }
+
+        .member-photo img {
+            border-radius: 50%;
+            width: 150px; /* Adjust the size of the round frame */
+            height: 150px; /* Adjust the size of the round frame */
+            object-fit: cover;
+            margin-right: 10px;
+        }
+
+        .member-info {
+            flex-grow: 1;
+            max-width: 70%; /* Adjust the maximum width for larger screens */
+        }
+
+        @media only screen and (max-width: 600px) {
+            .team-member {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .member-info {
+                max-width: 100%; /* Full width for smaller screens */
+                text-align: center;
+                margin-top: 1em;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<section>
+    <div class="team-member">
+        <div class="member-photo">
+            <img src="_pages\images\bio-photo.jpg" alt="Team Member 1">
+        </div>
+        <div class="member-info">
+            <h2>John Doe</h2>
+            <p>Email: john@example.com</p>
+            <p>John Doe is a passionate software engineer with a Master's degree in Computer Science. He has extensive experience in developing innovative web applications and excels in front-end technologies such as HTML, CSS, and JavaScript. John is dedicated to creating user-friendly interfaces and optimizing website performance. In addition to his technical skills, he possesses excellent communication and teamwork abilities. Outside of work, John enjoys hiking, photography, and volunteering at local community events. His commitment to continuous learning and creative problem-solving makes him a valuable asset to any collaborative and dynamic team.</p>
+        </div>
+    </div>
+
+</section>
+<section>
+    <div class="team-member">
+        <div class="member-photo">
+            <img src="_pages\images\bio-photo.jpg" alt="Team Member 2">
+        </div>
+        <div class="member-info">
+            <h2>Jane Smith</h2>
+            <p>Email: jane@example.com</p>
+            <p>Jane Smith is a dynamic marketing professional holding a Bachelor's degree in Business Administration. Specializing in digital marketing, she has a proven track record of crafting successful online campaigns that drive engagement and boost brand awareness. Jane is adept at utilizing social media platforms and analytics tools to analyze market trends and optimize strategies. Her strong communication skills, combined with a strategic mindset, enable her to develop compelling content and build lasting relationships with clients. Outside of work, Jane enjoys exploring new cuisines, practicing yoga, and contributing to environmental causes. Her creative flair and strategic thinking make her a valuable asset to any marketing team.</p>
+        </div>
+    </div>
+
+    <!-- Add more team members as needed -->
+
+</section>
+
+</body>
