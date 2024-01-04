@@ -14,12 +14,12 @@ header:
 HONG KONG PHD FELLOWSHIP
 ======
 The Hong Kong Polytechnic University invites expressions of interest from graduates with evidence of academic excellence, research ability, and good communication, interpersonal and leadership abilities for full-time PhD study within a newly launched Hong Kong PhD Fellowship scheme. The scheme aims to recruit outstanding graduates, irrespective of country of origin and ethnic background, and will provide a 3-year tuition scholarship, a monthly stipend of HK27,600 (approximately US3,540) and Conference and Research related travel allowance of HK13,800 (approximately US1,770) per year for awardees. The applicants should have satisfactory TOEFL (Paper-based: overall≥550 and writing≥4; Internet-based: overall≥80 and writing≥23) or IELTS (Overall≥6.5, Writing≥=6.0) scores. Please visit the RGC's website (
-  [http://www.rgc.edu.hk/hkphd]) or University's website ([http://www.rgc.edu.hk/hkphd]) for further details.
+  [](http://www.rgc.edu.hk/hkphd)) or University's website ([](http://www.rgc.edu.hk/hkphd)) for further details.
 
 
 POLYU PRESIDENTIAL/RESEARCH POSTGRADUATE STUDENTSHIP
 ======
-We are looking for exceptionally motivated graduate students who intend to pursue Ph.D. degree in Transportation Engineering. The starting date will be March-September each year. The applicants should have satisfactory TOEFL (Paper-based: overall≥550 and writing≥4; Internet-based: overall≥80 and writing≥23) or IELTS (Overall≥6.5, Writing≥6.0) scores, preferably with a master degree in Transportation Engineering other related fields. The monthly stipend of the university PhD studentship is HK27,290/HK18,470 (approximately US3,500/US2360) for a maximum of three years. Conference and research related allowance are also available. Please visit PolyU website ([http://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes]) for further details.
+We are looking for exceptionally motivated graduate students who intend to pursue Ph.D. degree in Transportation Engineering. The starting date will be March-September each year. The applicants should have satisfactory TOEFL (Paper-based: overall≥550 and writing≥4; Internet-based: overall≥80 and writing≥23) or IELTS (Overall≥6.5, Writing≥6.0) scores, preferably with a master degree in Transportation Engineering other related fields. The monthly stipend of the university PhD studentship is HK27,290/HK18,470 (approximately US3,500/US2360) for a maximum of three years. Conference and research related allowance are also available. Please visit PolyU website ([http://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes](http://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes)) for further details.
   
 HONG KONG SCHOLARS PROGRAM (香江學者計劃): POSTDOCTORAL FELLOWSHIPS
 ======
