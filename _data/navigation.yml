@@ -19,7 +19,7 @@ main:
     url: /teams/  
 
   - title: "Vacancy"
-    url: /publications/  
+    url: /vacancy/  
 
 #  - title: "Portfolio"
 #    url: /portfolio/
