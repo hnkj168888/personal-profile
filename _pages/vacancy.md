@@ -14,7 +14,7 @@ header:
 HONG KONG PHD FELLOWSHIP
 ======
 The Hong Kong Polytechnic University invites expressions of interest from graduates with evidence of academic excellence, research ability, and good communication, interpersonal and leadership abilities for full-time PhD study within a newly launched Hong Kong PhD Fellowship scheme. The scheme aims to recruit outstanding graduates, irrespective of country of origin and ethnic background, and will provide a 3-year tuition scholarship, a monthly stipend of HK27,600 (approximately US3,540) and Conference and Research related travel allowance of HK13,800 (approximately US1,770) per year for awardees. The applicants should have satisfactory TOEFL (Paper-based: overall≥550 and writing≥4; Internet-based: overall≥80 and writing≥23) or IELTS (Overall≥6.5, Writing≥=6.0) scores. Please visit the RGC's website (
-  [](http://www.rgc.edu.hk/hkphd)) or University's website ([](http://www.rgc.edu.hk/hkphd)) for further details.
+  [http://www.rgc.edu.hk/hkphd]()) or University's website ([](http://www.rgc.edu.hk/hkphd)) for further details.
 
 
 POLYU PRESIDENTIAL/RESEARCH POSTGRADUATE STUDENTSHIP
