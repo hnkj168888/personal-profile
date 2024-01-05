@@ -10,10 +10,7 @@ main:
     url: /project/
 
   - title: "Activities"
-    url: /news/
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /news/  
 
   - title: "Teams"
     url: /teams/  
