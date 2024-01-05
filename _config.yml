@@ -83,8 +83,9 @@ author:
   name             : "Kun Wang"
   avatar           : "profile.png"
   bio              : "Assistant Professor at The Hong Kong Polytechnic University"
-  location         : "Hong Kong SAR"
-  employer         :
+  location         : "The Hong Kong Polytechnic University, Hong Kong"
+  employer         : 
+  department       : "Department of Industrial Systems and Engineering"
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=6N2hANkAAAAJ&hl=en"
   email            : "allen-kun.wang@polyu.edu.hk"
