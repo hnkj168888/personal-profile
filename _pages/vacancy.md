@@ -5,7 +5,7 @@ title: "Vacancy"
 permalink: /vacancy/
 author_profile: true
 header:
-  overlay_image: ../images/teaching_header.jpg
+  overlay_image: ../images/headers/teaching_header.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
