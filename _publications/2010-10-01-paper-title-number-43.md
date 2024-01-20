@@ -1,7 +1,6 @@
 ---
-title: "Paper Title Number 2"
+title: "[Paper Title Number 2](https://scholar.google.ca/citations?user=6N2hANkAAAAJ&hl=en)"
 collection: publications
-permalink: 'https://scholar.google.ca/citations?user=6N2hANkAAAAJ&hl=en'
 date: 2010-10-01
 venue: 'Journal 1'
 paperurl: 
