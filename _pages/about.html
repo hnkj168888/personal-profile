@@ -1,8 +1,12 @@
 ---
 permalink: /
-layout: single
 author_profile: true
 classes: wide
+gallery:
+  - image_path: images/home/img1.png
+  - image_path: images/home/img2.png
+  - image_path: images/home/img3.png
+  - image_path: images/home/img4.png
 ---
 
 <head>
@@ -47,6 +51,8 @@ classes: wide
     <img src="images/home/img4.png" alt="img4" height="800">
     </a>
 </div>
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 <h1>Kun Wang's Homepage</h1>
     
