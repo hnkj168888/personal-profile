@@ -2,16 +2,19 @@
 
 <style>
     .image-container {
-        height: 20px;
+        height: 50px;
+        margin-top: 10px;
     }
 
     .image-container img {
         max-height: 100%;
+        margin-right: 20px;
     }
 </style>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} | allen-kun.wang@polyu.edu.hk</div>
-
+<div class="page__footer-copyright">
+    &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} | allen-kun.wang@polyu.edu.hk
+</div>
 <div class="image-container">
     <img src="../images/logos/logo1.png" alt="Logo 1">
     <img src="../images/logos/logo2.png" alt="Logo 2">
