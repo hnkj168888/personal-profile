@@ -12,20 +12,12 @@
     }
 </style>
 
-<script>
-    function handleImageError(img) {
-      // This function will be called if the image fails to load
-      img.style.display = 'none'; // Hide the image
-      // Alternatively, you can display alternative content or take other actions
-    }
-  </script>
-
 <div class="page__footer-copyright">
     &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} | allen-kun.wang@polyu.edu.hk
 </div>
 
 <div class="image-container">
-    <img src="../images/logos/logo1.png" alt="Logo 1" onerror="handleImageError(this);">
-    <img src="../images/logos/logo2.png" alt="Logo 2" onerror="handleImageError(this);">
-    <img src="../images/logos/logo3.png" alt="Logo 3" onerror="handleImageError(this);">
+    <img src="../images/logos/logo1.png" alt="Logo 1" onerror="this.style.display='none';">
+    <img src="../images/logos/logo2.png" alt="Logo 2" onerror="this.style.display='none';">
+    <img src="../images/logos/logo3.png" alt="Logo 3" onerror="this.style.display='none';">
 </div>
