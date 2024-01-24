@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research"
-    url: /research/
+#  - title: "Research"
+#    url: /research/
 
   - title: "Project"
     url: /project/
 
-  - title: "Activities"
-    url: /activities/  
+#  - title: "Activities"
+#    url: /activities/  
 
   - title: "Teams"
     url: /teams/  
