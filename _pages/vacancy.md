@@ -1,5 +1,5 @@
 ---
-excerpt: "Welcome to join our team"
+excerpt: "Welcome to join our team."
 layout: archive
 title: "Vacancy"
 permalink: /vacancy/
