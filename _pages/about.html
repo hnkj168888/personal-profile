@@ -5,6 +5,15 @@ author_profile: true
 
 <head>
     <style>
+    @keyframes scroll {
+        0% {
+            transform: translateX(0);
+        }
+        100% {
+            transform: translateX(-200%);
+        }
+    }
+
     div.scroll-container {
       background-color: #ffffff;
       overflow: auto;
@@ -19,6 +28,7 @@ author_profile: true
       border-radius: 5px;
       height: 300px;
       width: auto;
+      animation: scroll 10s linear infinite;
     }
 
     h2 {
@@ -59,7 +69,7 @@ author_profile: true
       <span style="color: #000000; font-size: 1.2em; text-transform: uppercase;">Notice</span>
     </div>
     <div style="line-height: 1.5;">
-      ATTENTION! PhD Applications and Research Assistant Positions Open! Applicants please send emails to Dr Wang at <a href="mailto:allen-kun.wang@polyu.edu.hk">allen-kun.wang@polyu.edu.hk.</a>
+      ATTENTION! PhD Applications and Research Assistant Positions Open! Applicants please send emails to Dr Wang at <a href="mailto:allen-kun.wang@polyu.edu.hk">allen-kun.wang@polyu.edu.hk</a>.
     </div>
 </div>
 
