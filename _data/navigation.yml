@@ -15,8 +15,8 @@ main:
   - title: "Teams"
     url: /teams/  
 
-  - title: "Vacancy"
-    url: /vacancy/  
+#  - title: "Vacancy"
+#    url: /vacancy/  
 
 #  - title: "Portfolio"
 #    url: /portfolio/
